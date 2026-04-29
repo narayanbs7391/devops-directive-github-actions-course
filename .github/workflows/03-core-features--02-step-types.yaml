@@ -26,6 +26,6 @@ jobs:
   simply-output:
     runs-on: ubuntu-24.04
     steps:
-      - run: echo" hey there"
+      - run: echo " hey there"
         shell: bash
       
